@@ -1,12 +1,12 @@
-title: "Meu novo pessoal"
+title: "Blog do Henrique de Andrade"
 author: "Henrique de Andrade"
-description: "Coletânea de textos diversos escritos por mim." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+description: "Coletânea de textos diversos sobre tecnologia, produtividade, liberdade e felicidade." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "blog@henriqueandrade.com.br"
-twitter_username: "henriquecrang"
-github_username: "henriquecrang"
+#email: "blog@henriqueandrade.com.br"
+#twitter_username: "henriquecrang"
+#github_username: "henriquecrang"
 linkedin_username: "henrique-de-andrade"
 #facebook_username: username
 #flickr_username: username
